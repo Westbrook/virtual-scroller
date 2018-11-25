@@ -4,7 +4,6 @@
   "description": "A virtual scroller that optimizes the rendering of DOM according to the visible area and available data.",
   "main": "virtual-scroller.js",
   "module": "virtual-scroller.js",
-  "flat": true,
   "directories": {},
   "devDependencies": {
     "clang-format": "^1.2",
